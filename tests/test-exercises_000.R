@@ -1,4 +1,4 @@
-source("../exercises/exercises_001.R")
+source("../exercises/exercises_000.R")
 
 test_that("dbl_fun works", {
   expect_equal(dbl_fun(2), 4)

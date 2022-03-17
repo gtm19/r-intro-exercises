@@ -1,6 +1,5 @@
 #' make changes to the function below to make it double any number
 dbl_fun <- function(number) {
-  # EDIT BELOW HERE
-  number * 2
-  # EDIT ABOVE HERE
+  # REMOVE THE # at the start of the line below to fix your errors
+  # number * 2
 }
